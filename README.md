@@ -1,6 +1,6 @@
 # honor-magicbook-touchpad-ghost-device-fix
 
-[English version of README](README_en.md) 
+[English version of README](README_en.md) | [Auto_fix скрипт](auto_fix.sh)
 
 Исправление самопроизвольной смены яркости экрана в Linux на ноутбуке Honor MagicBook. (Модель ноутбука: HONOR MagicBook X14 2025 5301ALWG/FRG-X)
 
